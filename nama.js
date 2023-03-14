@@ -1,1 +1,1 @@
-document.title = "newTitle";
+document.title = "newTitle"
